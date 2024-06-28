@@ -10,7 +10,13 @@ export default function FeaturedBlogSection() {
 					который не палится, парсинг, который не банится
 				</p>
 			</div>
-			<div className="bg-comper relative w-100pc h-75vh bg-cover bg-b">
+			<div className={'box-img-comper'}>
+				<img
+					src={'images/comper.jpg'}
+					alt={'img'}
+					className="bg-comper relative w-100pc h-75vh bg-cover bg-b"
+				/>
+
 				<a
 					href="https://t.me/+VFB_kZ7yf084MmVi"
 					target={'_blank'}

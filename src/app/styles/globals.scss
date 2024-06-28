@@ -228,8 +228,7 @@ select {
 }
 
 .bg-comper {
-  background-image: url('public/images/comper.jpg');
-  filter: grayscale(0.5);
+  filter: grayscale(0.6);
 }
 
 /* scroll Bar */
@@ -310,3 +309,9 @@ select {
   }
 }
 
+.box-img-comper {
+  position: relative;
+  img {
+    object-fit: cover;
+  }
+}
