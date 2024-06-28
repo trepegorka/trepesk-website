@@ -9,7 +9,7 @@ export default function TopNav() {
 					data-toggle="toggle-nav"
 					data-target="#nav-items"
 					href="#"
-					className="flex items-center ml-auto md-hidden indigo-lighter opacity-50 hover-opacity-100 ease-300 p-1 m-3"
+					className="flex items-center ml-auto md-hidden2 indigo-lighter opacity-50 hover-opacity-100 ease-300 p-1 m-3"
 				>
 					<i data-feather="menu"></i>
 				</a>
